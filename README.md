@@ -25,6 +25,7 @@ python main.py --config=./exps/[MODEL]_[DATASET]_b[BASE]_inc[INC].json
 ## Acknowledgments
 We thank the following repos providing helpful components/functions in our work.
 + [PyCIL](https://github.com/G-U-N/PyCIL)
++ [BEEF](https://github.com/G-U-N/ICLR23-BEEF)
 + [CSSR](https://github.com/xyzedd/CSSR)
 
 ## Contact
