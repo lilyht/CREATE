@@ -28,5 +28,3 @@ We thank the following repos providing helpful components/functions in our work.
 + [BEEF](https://github.com/G-U-N/ICLR23-BEEF)
 + [CSSR](https://github.com/xyzedd/CSSR)
 
-## Contact
-Code will be uploaded in a few days.
