@@ -22,6 +22,18 @@ Class incremental learning (CIL) aims to enable models to continuously learn new
 python main.py --config=./exps/[MODEL]_[DATASET]_b[BASE]_inc[INC].json
 ```
 
+## Citation
+```bibtex
+@InProceedings{Chen_2025_CVPR,
+    author    = {Chen, Huitong and Wang, Yu and Fan, Yan and Jiang, Guosong and Hu, Qinghua},
+    title     = {Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {10121-10130}
+}
+```
+
 ## Acknowledgments
 We thank the following repos providing helpful components/functions in our work.
 + [PyCIL](https://github.com/G-U-N/PyCIL)
